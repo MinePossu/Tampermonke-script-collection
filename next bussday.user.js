@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         next bussday
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @namespace    https://github.com/MinePossu/Tampermonke-script-collection/raw/main/next%20bussday.user.js
+// @version      0.2
+// @description  add arrows to move between bussiness days to wilma
+// @author       MinePossu
 // @match        *.inschool.fi/schedule*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=inschool.fi
 // @grant        none
